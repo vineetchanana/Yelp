@@ -5,9 +5,7 @@ YelpCamp is a Campground website. User can see the campgrounds posted bt people 
 
 ## Functionality
 
-YelpCamp stores the Campground sites.User can see all the Campgrounds added on the site by othr users.User needs to login to add
-their own Campgrounds, Authentication also requires if user wants to comment on other people's Campgrounds.User can only Edit,
-Update and Delte their own campgrounds.Routes in the site follow REST routing.
+This app loads in all the Campgrounds stored in the Database by different users.User can see all the Campgrounds added on the site by othr users.User needs to login to addtheir own Campgrounds, Authentication also requires if user wants to comment on other people's Campgrounds.User can only Edit, Update and Delte their own campgrounds.Routes in the site follow REST routing.
 
 ## Tech Stack
 * Node
