@@ -1,7 +1,7 @@
 # YelpCamp
 [YelpCamp](https://murmuring-woodland-13945.herokuapp.com/)
 
-This website contains the list of Campgrounds.User can see the campgrounds and add their own Campgrounds after logging in.
+YelpCamp is a Campground website. User can see the campgrounds posted bt people and add their own Campgrounds after registering on it.
 
 ## Functionality
 
